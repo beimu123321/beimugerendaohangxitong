@@ -2,7 +2,14 @@
 
 一个零构建、单文件前端的个人导航站。毛玻璃质感、黑白灰度审美、支持深浅双主题，数据存 MySQL，服务端 Node.js + Express，页面之间通过 SSE 实时同步。
 
-> 线上演示：浏览器打开即用，手机 / 桌面自适应。
+> **演示站**：[home.leich.cn](https://home.leich.cn) — 本项目线上实例，浏览器打开即用，手机 / 桌面自适应。
+
+## 演示与联系
+
+| 项目 | 地址 / 号码 |
+|---|---|
+| 在线演示 | [https://home.leich.cn](https://home.leich.cn) |
+| QQ | 3542545505 |
 
 ![tech](https://img.shields.io/badge/frontend-%E5%8D%95%E6%96%87%E4%BB%B6HTML-blue) ![tech](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-green) ![tech](https://img.shields.io/badge/db-MySQL-orange)
 
