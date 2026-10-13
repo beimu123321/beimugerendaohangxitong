@@ -1,0 +1,7 @@
+node_modules/
+*.log
+app.log
+.DS_Store
+Thumbs.db
+.env
+*.tar.gz
